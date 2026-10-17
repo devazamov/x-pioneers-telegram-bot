@@ -1,0 +1,6 @@
+{
+  "name": "X PIONEERS Official Telegram Bot & Sandbox",
+  "description": "Official Telegram bot for the X PIONEERS tech community with interactive testing sandbox, architecture docs, and database manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

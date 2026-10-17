@@ -1,0 +1,19 @@
+[
+  "x-pioneers-bot/tests/test_applications.py::test_application_lifecycle",
+  "x-pioneers-bot/tests/test_applications.py::test_application_validation",
+  "x-pioneers-bot/tests/test_auth.py::test_admin_authorization_rules",
+  "x-pioneers-bot/tests/test_auth.py::test_id_parsers",
+  "x-pioneers-bot/tests/test_auth.py::test_runtime_validation",
+  "x-pioneers-bot/tests/test_callbacks.py::test_project_catalog_integrity",
+  "x-pioneers-bot/tests/test_callbacks.py::test_unknown_project_id_lookup_safety",
+  "x-pioneers-bot/tests/test_callbacks.py::test_user_upsert_and_event_logging",
+  "x-pioneers-bot/tests/test_keyboards.py::test_admin_application_action_keyboard",
+  "x-pioneers-bot/tests/test_keyboards.py::test_admin_menu_keyboard",
+  "x-pioneers-bot/tests/test_keyboards.py::test_application_review_keyboard",
+  "x-pioneers-bot/tests/test_keyboards.py::test_broadcast_confirmation_keyboard",
+  "x-pioneers-bot/tests/test_keyboards.py::test_main_menu_keyboard_has_all_required_buttons",
+  "x-pioneers-bot/tests/test_keyboards.py::test_project_detail_keyboard",
+  "x-pioneers-bot/tests/test_keyboards.py::test_projects_menu_keyboard",
+  "x-pioneers-bot/tests/test_news.py::test_news_empty_state_does_not_crash",
+  "x-pioneers-bot/tests/test_news.py::test_publish_and_retrieve_news"
+]
